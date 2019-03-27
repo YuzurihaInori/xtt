@@ -1,0 +1,146 @@
+{
+    "code": 0, 
+    "msg": "ok", 
+    "url": "/api/v1000.chat/chat_list", 
+    "time": "2019-03-27 14:47:46", 
+    "hash": "", 
+    "explain": "", 
+    "page": {
+        "current": 1, 
+        "last": 1
+    }, 
+    "data": {
+        "list": [
+            {
+                "chat_host_nick": "浮华若梦丶", 
+                "chat_online_num": 1, 
+                "chat_room_icon": "http://im-file-oss.7guoyouxi.com/im/img/avatar/c416a34fbdda35f0b0261e45927b7d93.jpg", 
+                "chat_room_id": 100003, 
+                "chat_room_name": "呃呃呃呃", 
+                "key":1,
+                "chat_host_uid": 10009, 
+                "locked": 0
+            }, 
+            {
+                "chat_host_nick": "管理员", 
+                "chat_online_num": 1, 
+                "chat_room_icon": "http://im-file-oss.7guoyouxi.com/im/img/1546495323_890.png", 
+                "chat_room_id": 100000, 
+                "key":2,
+                 "chat_room_name": "哦哦1", 
+                "chat_host_uid": 10000, 
+                "locked": 0
+            }, 
+            {
+                "chat_host_nick": "手机用户", 
+                "chat_online_num": 4, 
+                "chat_room_icon": "http://im-file-oss.7guoyouxi.com/im/img/1546495342_459.png", 
+                "chat_room_id": 100013, 
+                "key":3, 
+                 "chat_room_name": "发那么美", 
+                "chat_host_uid": 10030, 
+                "locked": 0
+            }, 
+            {
+                "chat_host_nick": "南安", 
+                "chat_online_num": 1, 
+                "chat_room_icon": "http://im-file-oss.7guoyouxi.com/im/img/1546495323_890.png", 
+                "key":4,
+                "chat_room_id": 100005, 
+                "chat_room_name": "h", 
+                "chat_host_uid": 10014, 
+                "locked": 1
+            }, 
+            {
+                "chat_host_nick": "手机用户4646", 
+                "chat_online_num": 1, 
+                "chat_room_icon": "http://im-file-oss.7guoyouxi.com/im/img/1546495369_747.png", 
+                "chat_room_id": 100007, 
+                "key":5,
+                 "chat_room_name": "u", 
+                "chat_host_uid": 10018, 
+                "locked": 0
+            }, 
+            {
+                "chat_host_nick": "TouchSel", 
+                "chat_online_num": 1, 
+                "chat_room_icon": "http://im-file-oss.7guoyouxi.com/im/img/1546495379_164.png", 
+                "chat_room_id": 100010, 
+                "key":6,
+                  "chat_room_name": "时光时光", 
+                "chat_host_uid": 10019, 
+                "locked": 0
+            }, 
+            {
+                "chat_host_nick": "手机用户2031", 
+                "chat_online_num": 6, 
+                "chat_room_icon": "http://im-file-oss.7guoyouxi.com/im_test/img/avatar/100591552962050728.jpg", 
+                "chat_room_id": 100032, 
+                "key":6,
+                 "chat_room_name": "安静的小屋", 
+                "chat_host_uid": 10059, 
+                "locked": 0
+            }, 
+            {
+                "chat_host_nick": "手机用户1199", 
+                "chat_online_num": 2, 
+                "chat_room_icon": "http://im-file-oss.7guoyouxi.com/im_test/img/avatar/3576a6bb260a319f5d0b4a5b4366d78a.jpg", 
+                "chat_room_id": 100022, 
+                "chat_room_name": "W", 
+                "key":7,
+                 "chat_host_uid": 10026, 
+                "locked": 0
+            }, 
+            {
+                "chat_host_nick": "查", 
+                "chat_online_num": 2, 
+                "chat_room_icon": "http://im-file-oss.7guoyouxi.com/im_test/img/avatar/100481551941360952.jpg", 
+                "chat_room_id": 100028, 
+                "key":8,
+                  "chat_room_name": "xin", 
+                "chat_host_uid": 10048, 
+                "locked": 0
+            }, 
+            {
+                "chat_host_nick": "xwl", 
+                "chat_online_num": 1, 
+                "chat_room_icon": "http://im-file-oss.7guoyouxi.com/im_test/img/avatar/3576a6bb260a319f5d0b4a5b4366d78a.jpg", 
+                "chat_room_id": 100006, 
+                "key":9,
+                "chat_room_name": "哈哈", 
+                "chat_host_uid": 10003, 
+                "locked": 0
+            }, 
+            {
+                "chat_host_nick": "Fine.", 
+                "chat_online_num": 1, 
+                "chat_room_icon": "http://im-file-oss.7guoyouxi.com/im/img/avatar/a372ed56de55ddae875fa826a5034431.jpg", 
+                "chat_room_id": 100011, 
+                "chat_room_name": "yuu", 
+                "key":10,
+                  "chat_host_uid": 10016, 
+                "locked": 0
+            }, 
+            {
+                "chat_host_nick": "手机用户7796", 
+                "chat_online_num": 2, 
+                "chat_room_icon": "http://im-file-oss.7guoyouxi.com/im/img/1546495342_459.png", 
+                "chat_room_id": 100033, 
+                "key":11,
+                   "chat_room_name": "哈哈哈", 
+                "chat_host_uid": 10051, 
+                "locked": 0
+            }, 
+            {
+                "chat_host_nick": "手机用户0560", 
+                "chat_online_num": 2, 
+                "chat_room_icon": "http://im-file-oss.7guoyouxi.com/im/img/1546495379_164.png", 
+                "chat_room_id": 100037, 
+                "key":12,
+                 "chat_room_name": "eeee", 
+                "chat_host_uid": 10085, 
+                "locked": 1
+            }
+        ]
+    }
+}

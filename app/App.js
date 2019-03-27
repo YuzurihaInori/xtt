@@ -15,9 +15,6 @@ import Home from "./screen/main/Home";
 
 import { Image, View, Text } from "react-native";
 
-const SELECTED_COLOR = "#ea7c7c";
-const UNSELECTED_COLOR = "#aaaaaa";
-
 const ICON = {
   chat_checked: require("./image/main_chat_checked.png"),
   chat_uncheck: require("./image/main_chat_uncheck.png"),
